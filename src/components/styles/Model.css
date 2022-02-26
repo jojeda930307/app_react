@@ -1,0 +1,22 @@
+.container-fluid {
+    background-color:  azure;
+}
+
+ul.navbar-nav {
+    text-indent: 2em;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+#carouselExampleIndicators {
+    margin-top: 20px;
+}
+
+
+
+
+
